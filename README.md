@@ -1,9 +1,8 @@
 # Winter mountain hikes
-
 <div style="text-align: justify">
-Based on the map of the mountain resort, Professor Baltazar plans to hike between \( n \) shelters, using \( m \) bidirectional trails. For safety reasons, he restricts his routes to trails not exceeding an altitude of \( M \) meters above sea level.
+Based on the map of the mountain resort, Professor Baltazar plans to hike between <img src="https://latex.codecogs.com/svg.latex?\small&space;n" /> shelters, using <img src="https://latex.codecogs.com/svg.latex?\small&space;m" /> bidirectional trails. For safety reasons, he restricts his routes to trails not exceeding an altitude of <img src="https://latex.codecogs.com/svg.latex?\small&space;M" /> meters above sea level.
 
-The task is to indicate all the shelters that Professor Baltazar could safely reach. The selection criterion is the altitude of the trails, meaning we discard those paths whose altitude above sea level exceeds \( M \) meters.
+The task is to indicate all the shelters that Professor Baltazar could safely reach. The selection criterion is the altitude of the trails, meaning we discard those paths whose altitude above sea level exceeds <img src="https://latex.codecogs.com/svg.latex?\small&space;M" /> meters.
 </div>
 
 ## Inspiration
